@@ -1,6 +1,5 @@
 ### Hi 👋 I'm Steven
 
-- 🏘️ Working @Fundrise on the future of real estate investing
 - 📱 iOS and Swift
 - ⚡ Passionate about app scalability and developer productivity
 - 🥊 Trains Muay Thai
